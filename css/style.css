@@ -1,0 +1,59 @@
+body{
+    margin: 10px 100px;
+}
+
+/* BT1 */
+#showKQ1{
+    height: 40px;
+    width: 30%;
+    background-color: #D0EBF0;
+    font-size: 20px;
+    line-height: 40px;
+    color: #446F77;
+}
+
+/* BT2 BT3 */
+.BT2 input, .BT3 input, .BT4 input{
+    height: 40px;
+    width: 30%;
+    margin: 10px 0 0;
+}
+
+#showKQ2, #showKQ3, #showKQ4 {
+    height: 25px;
+    width: 30%;
+    background-color: #F8D7DA;
+}
+
+.BT2 button, .BT3 button, .BT4 button{
+    margin: 10px 0;
+    padding: 10px;
+    color:white;
+    border-radius: 5px;
+    background-color: #DC3545;
+    border: 0px;
+    cursor: pointer;
+}
+
+#KQ2, #KQ3{
+    padding: 0 15px;
+    line-height: 40px;
+}
+
+#showKQ3{
+    background-color: #D4EDDA;
+}
+
+.BT3 button{
+    background-color: #218838;
+}
+
+#showKQ4{
+    margin: 10px 0;
+    background-color: black;
+    height: auto;
+}
+
+#KQ4{
+    padding: 10px 10px;
+}
